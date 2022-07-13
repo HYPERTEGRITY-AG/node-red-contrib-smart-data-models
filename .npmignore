@@ -1,0 +1,6 @@
+deploy.sh
+node_modules
+docs
+.idea
+.github
+*.svelte
